@@ -1,0 +1,15 @@
+F£º
+Prisoner's Dilemma
+¢Ù:Prisoner Dilemma(Plato)
+	Suppose there were prisoners in the cave.They were
+bound to face the wall.Can only see the projection on the 
+wall.Platon called these wall images the visible world.This
+suggests that the prisoners see is totally false,not the 
+thing itself.
+¢Ú:Prisoner's Dilemma
+	A\B    |B stays silent  |B betrays
+	A stay
+	silent | -1/-1		|-3/0
+	------
+	A 
+	betrays| 0/-3		|-2/-2
